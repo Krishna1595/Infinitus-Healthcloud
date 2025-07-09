@@ -38,5 +38,5 @@ This is a Salesforce Health Cloud integration application that sends Care Benefi
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/salesforce-care-benefit-verification.git
+git clone https://github.com/Krishna1595/Infinitus-Healthcloud.git
 cd salesforce-care-benefit-verification
