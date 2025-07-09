@@ -1,0 +1,19 @@
+Open: https://workbench.developerforce.com
+
+Login with your Developer Org
+
+Go to: Utilities → REST Explorer
+
+Select POST method
+
+Enter URL:
+
+/services/apexrest/care-benefit-verification-results
+
+Enter Request Body:
+
+{
+  "externalId": "12345",
+  "status": "Acknowledged",
+  "statusReason": "Approved by Payer"
+}
