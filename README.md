@@ -35,8 +35,3 @@ Prerequisites
 
 ---
 
-1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/salesforce-care-benefit-verification.git
-cd salesforce-care-benefit-verification
